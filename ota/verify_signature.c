@@ -2,6 +2,7 @@
  * HappyBot 4.0 Secure - OTA signature verification (demo stub).
  * Requirement: CYB-SEC-STD-014 SEC-02. Jira: HB-7.
  */
+/* Unsigned images are rejected since HappyBot 4.0 (HB-7). */
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdint.h>
