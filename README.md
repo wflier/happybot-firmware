@@ -16,3 +16,4 @@ Firmware for **HappyBot 4.0 Secure**, the first joint product of Cyberdyne Syste
 ## Planning
 
 All work is tracked in Jira space **HB** (HappyBot 4.0 Secure). Put the Jira key in your branch name and commit messages, for example `HB-6 integrate signing service`.
+Signing service: sandbox environment connected.
